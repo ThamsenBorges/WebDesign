@@ -1,0 +1,4 @@
+The internet is the tool that allows access to the web.
+Magic.Or data/packets moving from computers to routers to servers that have everything.
+Its just a folder its a place where multiple files can be stored.
+VCS is a good way to update something and compare files.
