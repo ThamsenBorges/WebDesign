@@ -1,0 +1,4 @@
+Data travels on the internet by way of packets which hops to your ISP that leads to the internet
+An IP Address is assigned to every computer/ethernet connection to identify it. A DNS are Domain Name Servers the DNS gives the IP Address.
+Cookies track website activity, its a form of information mainly the saving of passwords.
+The path, protocol and domain name
