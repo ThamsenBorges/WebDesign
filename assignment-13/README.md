@@ -1,0 +1,3 @@
+Yes I have learned a lot from this class and I think I definately improved. I think I learned a lot about set up and structure specifically.
+I learned so many things about web design mainly css I think but I guess overall just how they work and now I can see all the things our popular websites have and recognized what they are!
+I had a ton of fun designing my site and having free control over it and im very proud of it.
